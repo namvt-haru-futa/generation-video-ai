@@ -1,0 +1,429 @@
+[
+  {
+    "text": "Không",
+    "startMs": 51,
+    "endMs": 191,
+    "timestampMs": null,
+    "confidence": 0.901
+  },
+  {
+    "text": "chỉ",
+    "startMs": 251,
+    "endMs": 392,
+    "timestampMs": null,
+    "confidence": 0.888
+  },
+  {
+    "text": "nóng,",
+    "startMs": 432,
+    "endMs": 592,
+    "timestampMs": null,
+    "confidence": 0.878
+  },
+  {
+    "text": "thung",
+    "startMs": 913,
+    "endMs": 1053,
+    "timestampMs": null,
+    "confidence": 0.892
+  },
+  {
+    "text": "lũng",
+    "startMs": 1093,
+    "endMs": 1253,
+    "timestampMs": null,
+    "confidence": 0.847
+  },
+  {
+    "text": "chết",
+    "startMs": 1414,
+    "endMs": 1594,
+    "timestampMs": null,
+    "confidence": 0.915
+  },
+  {
+    "text": "còn",
+    "startMs": 1734,
+    "endMs": 1874,
+    "timestampMs": null,
+    "confidence": 0.942
+  },
+  {
+    "text": "là",
+    "startMs": 1935,
+    "endMs": 2035,
+    "timestampMs": null,
+    "confidence": 0.881
+  },
+  {
+    "text": "nơi",
+    "startMs": 2095,
+    "endMs": 2235,
+    "timestampMs": null,
+    "confidence": 0.837
+  },
+  {
+    "text": "thấp",
+    "startMs": 2295,
+    "endMs": 2435,
+    "timestampMs": null,
+    "confidence": 0.792
+  },
+  {
+    "text": "nhất",
+    "startMs": 2496,
+    "endMs": 2636,
+    "timestampMs": null,
+    "confidence": 0.791
+  },
+  {
+    "text": "Bắc",
+    "startMs": 2716,
+    "endMs": 2836,
+    "timestampMs": null,
+    "confidence": 0.866
+  },
+  {
+    "text": "Mỹ.",
+    "startMs": 2916,
+    "endMs": 3097,
+    "timestampMs": null,
+    "confidence": 0.975
+  },
+  {
+    "text": "Tại",
+    "startMs": 3537,
+    "endMs": 3658,
+    "timestampMs": null,
+    "confidence": 0.998
+  },
+  {
+    "text": "lòng",
+    "startMs": 3718,
+    "endMs": 3858,
+    "timestampMs": null,
+    "confidence": 0.82
+  },
+  {
+    "text": "chảo",
+    "startMs": 3998,
+    "endMs": 4259,
+    "timestampMs": null,
+    "confidence": 0.853
+  },
+  {
+    "text": "Badwater,",
+    "startMs": 4359,
+    "endMs": 4920,
+    "timestampMs": null,
+    "confidence": 0.494
+  },
+  {
+    "text": "cánh",
+    "startMs": 5181,
+    "endMs": 5321,
+    "timestampMs": null,
+    "confidence": 0.877
+  },
+  {
+    "text": "đồng",
+    "startMs": 5381,
+    "endMs": 5501,
+    "timestampMs": null,
+    "confidence": 0.88
+  },
+  {
+    "text": "mũi",
+    "startMs": 5561,
+    "endMs": 5701,
+    "timestampMs": null,
+    "confidence": 0.632
+  },
+  {
+    "text": "trắng",
+    "startMs": 5782,
+    "endMs": 5942,
+    "timestampMs": null,
+    "confidence": 0.926
+  },
+  {
+    "text": "xóa",
+    "startMs": 6062,
+    "endMs": 6283,
+    "timestampMs": null,
+    "confidence": 0.858
+  },
+  {
+    "text": "trải",
+    "startMs": 6403,
+    "endMs": 6563,
+    "timestampMs": null,
+    "confidence": 0.885
+  },
+  {
+    "text": "dài",
+    "startMs": 6663,
+    "endMs": 6844,
+    "timestampMs": null,
+    "confidence": 0.94
+  },
+  {
+    "text": "đến",
+    "startMs": 6924,
+    "endMs": 7044,
+    "timestampMs": null,
+    "confidence": 0.996
+  },
+  {
+    "text": "tận",
+    "startMs": 7124,
+    "endMs": 7264,
+    "timestampMs": null,
+    "confidence": 0.994
+  },
+  {
+    "text": "chân",
+    "startMs": 7365,
+    "endMs": 7525,
+    "timestampMs": null,
+    "confidence": 0.911
+  },
+  {
+    "text": "trời",
+    "startMs": 7605,
+    "endMs": 7805,
+    "timestampMs": null,
+    "confidence": 0.956
+  },
+  {
+    "text": "nằm",
+    "startMs": 8006,
+    "endMs": 8126,
+    "timestampMs": null,
+    "confidence": 0.86
+  },
+  {
+    "text": "ở",
+    "startMs": 8246,
+    "endMs": 8286,
+    "timestampMs": null,
+    "confidence": 0.991
+  },
+  {
+    "text": "86",
+    "startMs": 8346,
+    "endMs": 8867,
+    "timestampMs": null,
+    "confidence": 0.472
+  },
+  {
+    "text": "mét",
+    "startMs": 8947,
+    "endMs": 9108,
+    "timestampMs": null,
+    "confidence": 0.887
+  },
+  {
+    "text": "dưới",
+    "startMs": 9208,
+    "endMs": 9328,
+    "timestampMs": null,
+    "confidence": 0.993
+  },
+  {
+    "text": "mực",
+    "startMs": 9348,
+    "endMs": 9468,
+    "timestampMs": null,
+    "confidence": 0.899
+  },
+  {
+    "text": "nước",
+    "startMs": 9509,
+    "endMs": 9649,
+    "timestampMs": null,
+    "confidence": 0.946
+  },
+  {
+    "text": "biển.",
+    "startMs": 9709,
+    "endMs": 9889,
+    "timestampMs": null,
+    "confidence": 0.9
+  },
+  {
+    "text": "Điều",
+    "startMs": 10390,
+    "endMs": 10530,
+    "timestampMs": null,
+    "confidence": 0.986
+  },
+  {
+    "text": "kỳ",
+    "startMs": 10611,
+    "endMs": 10771,
+    "timestampMs": null,
+    "confidence": 0.867
+  },
+  {
+    "text": "lạ",
+    "startMs": 10831,
+    "endMs": 11051,
+    "timestampMs": null,
+    "confidence": 0.996
+  },
+  {
+    "text": "là",
+    "startMs": 11232,
+    "endMs": 11332,
+    "timestampMs": null,
+    "confidence": 0.936
+  },
+  {
+    "text": "chỉ",
+    "startMs": 11392,
+    "endMs": 11532,
+    "timestampMs": null,
+    "confidence": 0.916
+  },
+  {
+    "text": "cách",
+    "startMs": 11592,
+    "endMs": 11733,
+    "timestampMs": null,
+    "confidence": 0.874
+  },
+  {
+    "text": "đó",
+    "startMs": 11813,
+    "endMs": 11973,
+    "timestampMs": null,
+    "confidence": 0.875
+  },
+  {
+    "text": "chừng",
+    "startMs": 12093,
+    "endMs": 12274,
+    "timestampMs": null,
+    "confidence": 0.709
+  },
+  {
+    "text": "24",
+    "startMs": 12694,
+    "endMs": 12835,
+    "timestampMs": null,
+    "confidence": 0.458
+  },
+  {
+    "text": "cây",
+    "startMs": 12915,
+    "endMs": 13055,
+    "timestampMs": null,
+    "confidence": 0.901
+  },
+  {
+    "text": "số",
+    "startMs": 13175,
+    "endMs": 13376,
+    "timestampMs": null,
+    "confidence": 0.998
+  },
+  {
+    "text": "đỉnh",
+    "startMs": 13596,
+    "endMs": 13776,
+    "timestampMs": null,
+    "confidence": 0.783
+  },
+  {
+    "text": "telescopic",
+    "startMs": 13897,
+    "endMs": 14638,
+    "timestampMs": null,
+    "confidence": 0.554
+  },
+  {
+    "text": "lại",
+    "startMs": 14939,
+    "endMs": 15039,
+    "timestampMs": null,
+    "confidence": 0.994
+  },
+  {
+    "text": "vương",
+    "startMs": 15139,
+    "endMs": 15299,
+    "timestampMs": null,
+    "confidence": 0.797
+  },
+  {
+    "text": "cao",
+    "startMs": 15379,
+    "endMs": 15520,
+    "timestampMs": null,
+    "confidence": 0.833
+  },
+  {
+    "text": "hơn",
+    "startMs": 15580,
+    "endMs": 15740,
+    "timestampMs": null,
+    "confidence": 0.888
+  },
+  {
+    "text": "3.300",
+    "startMs": 15840,
+    "endMs": 16622,
+    "timestampMs": null,
+    "confidence": 0.375
+  },
+  {
+    "text": "mét",
+    "startMs": 16662,
+    "endMs": 16802,
+    "timestampMs": null,
+    "confidence": 0.997
+  },
+  {
+    "text": "và",
+    "startMs": 17123,
+    "endMs": 17243,
+    "timestampMs": null,
+    "confidence": 0.998
+  },
+  {
+    "text": "có",
+    "startMs": 17323,
+    "endMs": 17423,
+    "timestampMs": null,
+    "confidence": 0.991
+  },
+  {
+    "text": "tuyết",
+    "startMs": 17483,
+    "endMs": 17664,
+    "timestampMs": null,
+    "confidence": 0.928
+  },
+  {
+    "text": "vào",
+    "startMs": 17744,
+    "endMs": 17864,
+    "timestampMs": null,
+    "confidence": 0.845
+  },
+  {
+    "text": "mùa",
+    "startMs": 17904,
+    "endMs": 18044,
+    "timestampMs": null,
+    "confidence": 0.836
+  },
+  {
+    "text": "đông.",
+    "startMs": 18084,
+    "endMs": 18225,
+    "timestampMs": null,
+    "confidence": 0.8
+  }
+]

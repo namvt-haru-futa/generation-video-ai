@@ -1,0 +1,50 @@
+{
+  "generatedBy": "sfx-download.py",
+  "source": "kenney (CC0) via lavenderdotpet/CC0-Public-Domain-Sounds",
+  "license": "CC0 1.0 Universal — no attribution required",
+  "categories": {
+    "alert": [
+      "error_003.ogg",
+      "error_004.ogg",
+      "glitch_001.ogg",
+      "glitch_002.ogg"
+    ],
+    "callout": [
+      "confirmation_001.ogg",
+      "confirmation_002.ogg",
+      "impactBell_heavy_000.ogg",
+      "impactBell_heavy_001.ogg",
+      "pluck_001.ogg",
+      "pluck_002.ogg"
+    ],
+    "drone": [
+      "impactBell_heavy_003.ogg",
+      "impactBell_heavy_004.ogg"
+    ],
+    "hook": [
+      "jingles_HIT00.ogg",
+      "jingles_HIT01.ogg",
+      "jingles_HIT02.ogg",
+      "jingles_HIT03.ogg"
+    ],
+    "outro": [
+      "jingles_PIZZI13.ogg",
+      "jingles_PIZZI14.ogg",
+      "jingles_PIZZI15.ogg"
+    ],
+    "reveal": [
+      "glass_001.ogg",
+      "glass_002.ogg",
+      "jingles_PIZZI08.ogg",
+      "jingles_PIZZI09.ogg",
+      "question_001.ogg"
+    ],
+    "success": [
+      "confirmation_003.ogg",
+      "confirmation_004.ogg",
+      "jingles_PIZZI00.ogg",
+      "jingles_PIZZI01.ogg",
+      "jingles_PIZZI02.ogg"
+    ]
+  }
+}

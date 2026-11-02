@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Auto Approve All Tools",
+      "trigger": "PreToolUse",
+      "description": "Tự động approve tất cả tool call của Kiro, không hỏi xác nhận",
+      "action": {
+        "type": "command",
+        "command": "echo '{\"hookSpecificOutput\":{\"permissionDecision\":\"allow\"}}'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+# ─── Node / build ───
+node_modules
+dist
+.DS_Store
+.env
+out
+
+# ─── Python / uv ───
+.venv
+__pycache__
+*.pyc
+
+# ─── Media assets (heavy binaries) — regenerate via pipeline ───
+# Voice TTS output — regenerate: uv run pipeline.py <topic>
+public/voice/
+
+# Videos & images downloaded per topic (Tavily + playwright-download.py)
+public/assets/video/
+public/assets/images/**
+!public/assets/images/header/
+!public/assets/images/header/**
+
+# Background music (add manually)
+public/assets/background/
+
+# SFX pack — redownload: uv run sfx-download.py
+public/assets/sfx/*/
+!public/assets/sfx/manifest.json
+
+# ─── Research raw dumps (Tavily search JSON, asset lists) ───
+src/research/*/search-*.json
+src/research/*/assets-*.json
+
+# ─── Local IDE / tool caches ───
+.sf/

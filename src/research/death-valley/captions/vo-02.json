@@ -1,0 +1,408 @@
+[
+  {
+    "text": "Ngày",
+    "startMs": 51,
+    "endMs": 211,
+    "timestampMs": null,
+    "confidence": 0.783
+  },
+  {
+    "text": "10",
+    "startMs": 371,
+    "endMs": 432,
+    "timestampMs": null,
+    "confidence": 0.234
+  },
+  {
+    "text": "tháng",
+    "startMs": 492,
+    "endMs": 632,
+    "timestampMs": null,
+    "confidence": 0.8
+  },
+  {
+    "text": "7",
+    "startMs": 652,
+    "endMs": 832,
+    "timestampMs": null,
+    "confidence": 0.548
+  },
+  {
+    "text": "năm",
+    "startMs": 932,
+    "endMs": 1293,
+    "timestampMs": null,
+    "confidence": 0.732
+  },
+  {
+    "text": "1913,",
+    "startMs": 1493,
+    "endMs": 1793,
+    "timestampMs": null,
+    "confidence": 0.22
+  },
+  {
+    "text": "nhiệt",
+    "startMs": 2354,
+    "endMs": 2494,
+    "timestampMs": null,
+    "confidence": 0.827
+  },
+  {
+    "text": "kế",
+    "startMs": 2554,
+    "endMs": 2715,
+    "timestampMs": null,
+    "confidence": 0.831
+  },
+  {
+    "text": "tại",
+    "startMs": 2795,
+    "endMs": 2955,
+    "timestampMs": null,
+    "confidence": 0.842
+  },
+  {
+    "text": "Phoenix",
+    "startMs": 3055,
+    "endMs": 3315,
+    "timestampMs": null,
+    "confidence": 0.508
+  },
+  {
+    "text": "Creek",
+    "startMs": 3396,
+    "endMs": 3576,
+    "timestampMs": null,
+    "confidence": 0.266
+  },
+  {
+    "text": "chạm",
+    "startMs": 3736,
+    "endMs": 3896,
+    "timestampMs": null,
+    "confidence": 0.961
+  },
+  {
+    "text": "mốc",
+    "startMs": 3956,
+    "endMs": 4457,
+    "timestampMs": null,
+    "confidence": 0.886
+  },
+  {
+    "text": "134°F,",
+    "startMs": 4517,
+    "endMs": 4857,
+    "timestampMs": null,
+    "confidence": 0.518
+  },
+  {
+    "text": "tương",
+    "startMs": 5058,
+    "endMs": 5959,
+    "timestampMs": null,
+    "confidence": 0.908
+  },
+  {
+    "text": "đương",
+    "startMs": 6019,
+    "endMs": 6179,
+    "timestampMs": null,
+    "confidence": 0.729
+  },
+  {
+    "text": "với",
+    "startMs": 6259,
+    "endMs": 6400,
+    "timestampMs": null,
+    "confidence": 0.874
+  },
+  {
+    "text": "56,7°C.",
+    "startMs": 6540,
+    "endMs": 7421,
+    "timestampMs": null,
+    "confidence": 0.549
+  },
+  {
+    "text": "Đến",
+    "startMs": 8282,
+    "endMs": 8402,
+    "timestampMs": null,
+    "confidence": 0.886
+  },
+  {
+    "text": "hôm",
+    "startMs": 8442,
+    "endMs": 8562,
+    "timestampMs": null,
+    "confidence": 0.939
+  },
+  {
+    "text": "nay",
+    "startMs": 8602,
+    "endMs": 8743,
+    "timestampMs": null,
+    "confidence": 0.999
+  },
+  {
+    "text": "đây",
+    "startMs": 8823,
+    "endMs": 8943,
+    "timestampMs": null,
+    "confidence": 0.931
+  },
+  {
+    "text": "vẫn",
+    "startMs": 9003,
+    "endMs": 9143,
+    "timestampMs": null,
+    "confidence": 0.887
+  },
+  {
+    "text": "là",
+    "startMs": 9223,
+    "endMs": 9303,
+    "timestampMs": null,
+    "confidence": 0.99
+  },
+  {
+    "text": "nhiệt",
+    "startMs": 9343,
+    "endMs": 9504,
+    "timestampMs": null,
+    "confidence": 0.76
+  },
+  {
+    "text": "độ",
+    "startMs": 9564,
+    "endMs": 9724,
+    "timestampMs": null,
+    "confidence": 0.836
+  },
+  {
+    "text": "không",
+    "startMs": 9824,
+    "endMs": 9964,
+    "timestampMs": null,
+    "confidence": 0.935
+  },
+  {
+    "text": "khí",
+    "startMs": 10044,
+    "endMs": 10185,
+    "timestampMs": null,
+    "confidence": 0.847
+  },
+  {
+    "text": "cao",
+    "startMs": 10285,
+    "endMs": 10445,
+    "timestampMs": null,
+    "confidence": 0.864
+  },
+  {
+    "text": "nhất",
+    "startMs": 10505,
+    "endMs": 10645,
+    "timestampMs": null,
+    "confidence": 0.913
+  },
+  {
+    "text": "từng",
+    "startMs": 10805,
+    "endMs": 10946,
+    "timestampMs": null,
+    "confidence": 0.952
+  },
+  {
+    "text": "được",
+    "startMs": 11006,
+    "endMs": 11126,
+    "timestampMs": null,
+    "confidence": 0.949
+  },
+  {
+    "text": "ghi",
+    "startMs": 11186,
+    "endMs": 11326,
+    "timestampMs": null,
+    "confidence": 0.727
+  },
+  {
+    "text": "nhận",
+    "startMs": 11346,
+    "endMs": 11506,
+    "timestampMs": null,
+    "confidence": 0.896
+  },
+  {
+    "text": "trên",
+    "startMs": 11607,
+    "endMs": 11747,
+    "timestampMs": null,
+    "confidence": 0.913
+  },
+  {
+    "text": "toàn",
+    "startMs": 11787,
+    "endMs": 11947,
+    "timestampMs": null,
+    "confidence": 0.834
+  },
+  {
+    "text": "thế",
+    "startMs": 11987,
+    "endMs": 12127,
+    "timestampMs": null,
+    "confidence": 0.727
+  },
+  {
+    "text": "giới.",
+    "startMs": 12167,
+    "endMs": 12327,
+    "timestampMs": null,
+    "confidence": 0.792
+  },
+  {
+    "text": "Vào",
+    "startMs": 12808,
+    "endMs": 12928,
+    "timestampMs": null,
+    "confidence": 0.984
+  },
+  {
+    "text": "mùa",
+    "startMs": 12968,
+    "endMs": 13109,
+    "timestampMs": null,
+    "confidence": 0.747
+  },
+  {
+    "text": "hè",
+    "startMs": 13169,
+    "endMs": 13369,
+    "timestampMs": null,
+    "confidence": 0.832
+  },
+  {
+    "text": "mặt",
+    "startMs": 13429,
+    "endMs": 13549,
+    "timestampMs": null,
+    "confidence": 0.886
+  },
+  {
+    "text": "đất",
+    "startMs": 13609,
+    "endMs": 13729,
+    "timestampMs": null,
+    "confidence": 0.833
+  },
+  {
+    "text": "ở",
+    "startMs": 13870,
+    "endMs": 13910,
+    "timestampMs": null,
+    "confidence": 0.986
+  },
+  {
+    "text": "đây",
+    "startMs": 13950,
+    "endMs": 14090,
+    "timestampMs": null,
+    "confidence": 0.888
+  },
+  {
+    "text": "có",
+    "startMs": 14190,
+    "endMs": 14270,
+    "timestampMs": null,
+    "confidence": 0.987
+  },
+  {
+    "text": "thể",
+    "startMs": 14310,
+    "endMs": 14430,
+    "timestampMs": null,
+    "confidence": 0.998
+  },
+  {
+    "text": "nóng",
+    "startMs": 14510,
+    "endMs": 14631,
+    "timestampMs": null,
+    "confidence": 0.875
+  },
+  {
+    "text": "tới",
+    "startMs": 14771,
+    "endMs": 14891,
+    "timestampMs": null,
+    "confidence": 0.998
+  },
+  {
+    "text": "gần",
+    "startMs": 14971,
+    "endMs": 15111,
+    "timestampMs": null,
+    "confidence": 0.957
+  },
+  {
+    "text": "93°C,",
+    "startMs": 15291,
+    "endMs": 15852,
+    "timestampMs": null,
+    "confidence": 0.518
+  },
+  {
+    "text": "đủ",
+    "startMs": 16313,
+    "endMs": 16433,
+    "timestampMs": null,
+    "confidence": 0.867
+  },
+  {
+    "text": "sức",
+    "startMs": 16513,
+    "endMs": 16653,
+    "timestampMs": null,
+    "confidence": 0.867
+  },
+  {
+    "text": "chiên",
+    "startMs": 16733,
+    "endMs": 16894,
+    "timestampMs": null,
+    "confidence": 0.896
+  },
+  {
+    "text": "chính",
+    "startMs": 16954,
+    "endMs": 17094,
+    "timestampMs": null,
+    "confidence": 0.91
+  },
+  {
+    "text": "một",
+    "startMs": 17174,
+    "endMs": 17294,
+    "timestampMs": null,
+    "confidence": 0.859
+  },
+  {
+    "text": "quả",
+    "startMs": 17334,
+    "endMs": 17494,
+    "timestampMs": null,
+    "confidence": 0.746
+  },
+  {
+    "text": "trứng.",
+    "startMs": 17534,
+    "endMs": 17695,
+    "timestampMs": null,
+    "confidence": 0.944
+  }
+]

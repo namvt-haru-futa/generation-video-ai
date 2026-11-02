@@ -1,0 +1,124 @@
+{
+  "topic": "death-valley",
+  "title": "Thung lũng Chết — nơi nóng nhất, khô nhất, thấp nhất Bắc Mỹ",
+  "aspect": "9:16",
+  "fps": 30,
+  "voice": {
+    "provider": "zerotts",
+    "voice": "giahuy",
+    "gapMs": 300
+  },
+  "scenes": [
+    {
+      "id": "vo-01",
+      "name": "Hook — Zoom vũ trụ → Death Valley",
+      "component": "Scene01",
+      "voiceText": "Ẩn mình ở phía đông bang Ca-li-pho-ni-a, ngay sát biên giới Nê-va-đa, nước Mỹ. Đây là nơi được xem là nóng nhất thế giới, với mức nhiệt độ kỷ lục từng được ghi nhận. Đây chính là Thung Lũng Chết.",
+      "overlayText": [
+        "📍 DEATH VALLEY",
+        "THUNG LŨNG CHẾT",
+        "California, Hoa Kỳ"
+      ],
+      "durationHint": 13.0,
+      "sfx": "hook",
+      "notes": "Cesium flythrough → zoom xuống Furnace Creek. Marker + title lớn khi camera dừng."
+    },
+    {
+      "id": "vo-02",
+      "name": "Nơi nóng nhất Trái Đất (134°F)",
+      "component": "Scene02",
+      "voiceText": "Ngày mười tháng bảy năm một nghìn chín trăm mười ba, nhiệt kế tại Phơ-nít Crík chạm mốc một trăm ba mươi tư độ F — tương đương với năm mươi sáu phẩy bảy độ C. Đến hôm nay, đây vẫn là nhiệt độ không khí cao nhất từng được ghi nhận trên toàn thế giới. Vào mùa hè, mặt đất ở đây có thể nóng tới gần chín mươi ba độ C — đủ sức chiên chín một quả trứng.",
+      "overlayText": [
+        "56.7°C (134°F)",
+        "KỶ LỤC NHIỆT ĐỘ CAO NHẤT HÀNH TINH",
+        "10 tháng 7, 1913"
+      ],
+      "durationHint": 18.5,
+      "sfx": null,
+      "notes": "Count-up 56.7°C với rung/glow cam. Heat haze background."
+    },
+    {
+      "id": "vo-03",
+      "name": "Điểm thấp nhất Bắc Mỹ (Badwater)",
+      "component": "Scene03",
+      "voiceText": "Không chỉ nóng, Thung Lũng Chết còn là nơi thấp nhất Bắc Mỹ. Tại lòng chảo Bát-oa-tơ, cánh đồng muối trắng xóa trải dài đến tận chân trời nằm ở tám mươi sáu mét dưới mực nước biển. Điều kỳ lạ là chỉ cách đó chừng hai mươi bốn cây số, đỉnh Te-lơ-xcốp Pík lại vươn cao hơn ba nghìn ba trăm mét, và có tuyết vào mùa đông.",
+      "overlayText": [
+        "-86 m (-282 ft)",
+        "ĐIỂM THẤP NHẤT BẮC MỸ",
+        "Badwater -86m  ⟷  Telescope Peak 3.368m"
+      ],
+      "durationHint": 19.0,
+      "sfx": null,
+      "notes": "Split so sánh Badwater vs Telescope Peak."
+    },
+    {
+      "id": "vo-04",
+      "name": "Khô hạn nhất — nhưng từng là biển & hồ",
+      "component": "Scene04",
+      "voiceText": "Mỗi năm nơi đây chỉ đón chưa đầy năm xăng-ti-mét mưa, khiến nó trở thành vùng khô hạn bậc nhất Bắc Mỹ. Nhưng bạn có biết rằng, hàng trăm triệu năm trước, cả khu vực này từng nằm dưới một vùng biển ấm. Và chỉ mới mười lăm nghìn năm trước, một hồ nước khổng lồ mang tên Men-li vẫn còn phủ kín thung lũng, trước khi bốc hơi hoàn toàn và để lại những cánh đồng muối như ngày nay.",
+      "overlayText": [
+        "~1.9 inch mưa / năm",
+        "KHÔ HẠN NHẤT BẮC MỸ",
+        "Từng là đáy biển → Từng là hồ khổng lồ → Sa mạc"
+      ],
+      "durationHint": 20.0,
+      "sfx": null,
+      "notes": "Morph từ đất nứt sang biển cổ đại + hồ Manly. Timeline 3 mốc."
+    },
+    {
+      "id": "vo-05",
+      "name": "Cái tên 'Thung lũng Chết' ra đời",
+      "component": "Scene05",
+      "voiceText": "Nhưng vì sao lại gọi là Thung Lũng Chết? Cái tên ấy không đến từ cái nóng, mà từ một thảm kịch. Mùa đông năm một nghìn tám trăm bốn mươi chín, một đoàn người đi tìm vàng đã lạc vào đây và mắc kẹt suốt nhiều tuần giữa vùng đất khắc nghiệt. Khi số ít người sống sót thoát ra được, họ ngoảnh lại và nói: Vĩnh biệt, Thung Lũng Chết. Và cái tên đó ở lại mãi mãi.",
+      "overlayText": [
+        "MÙA ĐÔNG 1849",
+        "\"Goodbye, Death Valley\""
+      ],
+      "durationHint": 21.3,
+      "sfx": null,
+      "notes": "Tông tối kịch tính, wagon vintage, năm 1849 hiện lớn."
+    },
+    {
+      "id": "vo-06",
+      "name": "Sự sống kỳ diệu giữa địa ngục",
+      "component": "Scene06",
+      "voiceText": "Nghe thì tưởng chẳng có gì sống nổi, nhưng Thung Lũng Chết lại là nhà của hơn năm mươi loài thú, gần bốn trăm loài chim, và cả những loài cá tí hon. Đặc biệt nhất là cá pắp-phít — hậu duệ của những chú cá từ thời hồ băng hà, sống sót đến tận hôm nay trong dòng suối mặn chát. Và sau những mùa đông mưa nhiều, cả sa mạc bừng nở hàng triệu bông hoa dại trong hiện tượng kỳ diệu mang tên siêu nở hoa.",
+      "overlayText": [
+        "SỰ SỐNG VẪN TỒN TẠI",
+        "56 loài thú • ~400 loài chim • 6 loài cá",
+        "Cá Pupfish — sống sót từ kỷ băng hà"
+      ],
+      "durationHint": 25.1,
+      "sfx": null,
+      "notes": "Tông sáng, superbloom, pupfish, bighorn sheep."
+    },
+    {
+      "id": "vo-07",
+      "name": "Con người vẫn sống ở đây",
+      "component": "Scene07",
+      "voiceText": "Và điều tuyệt vời nhất: con người vẫn sinh sống ngay tại đây. Người Tim-bi-sa Sô-sô-ni đã gắn bó với vùng đất này hơn một nghìn năm. Ngày nay, khoảng năm mươi người trong bộ tộc vẫn sống quanh năm tại ốc đảo Phơ-nít Crík, ngay giữa lòng nơi được xem là khắc nghiệt nhất hành tinh.",
+      "overlayText": [
+        "NGƯỜI TIMBISHA SHOSHONE",
+        "~50 người sống quanh năm",
+        "Hơn 1.000 năm gắn bó"
+      ],
+      "durationHint": 16.8,
+      "sfx": null,
+      "notes": "Furnace Creek oasis, cọ xanh, người Timbisha."
+    },
+    {
+      "id": "vo-08",
+      "name": "Kết & CTA",
+      "component": "Scene08",
+      "voiceText": "Nóng nhất, khô nhất, thấp nhất — nhưng cũng đẹp đến nghẹt thở, nhất là khi màn đêm buông xuống và cả dải ngân hà hiện ra. Nếu bạn thích những vùng đất kỳ lạ như thế này, hãy theo dõi để cùng khám phá tiếp nhé.",
+      "overlayText": [
+        "DEATH VALLEY",
+        "Nóng nhất • Khô nhất • Thấp nhất",
+        "Theo dõi để khám phá tiếp 🌍"
+      ],
+      "durationHint": 12.7,
+      "sfx": "outro",
+      "notes": "Hoàng hôn Zabriskie Point + stargazing. CTA + logo kênh."
+    }
+  ]
+}
