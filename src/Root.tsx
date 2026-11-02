@@ -33,6 +33,19 @@ import { Scene05 as DVScene05 } from "./compositions/death-valley/Scene05";
 import { Scene06 as DVScene06 } from "./compositions/death-valley/Scene06";
 import { Scene07 as DVScene07 } from "./compositions/death-valley/Scene07";
 import { Scene08 as DVScene08 } from "./compositions/death-valley/Scene08";
+import {
+  BarreleyeFishVideo,
+  SCENE_DURATIONS as BF_DURATIONS,
+  TOTAL_FRAMES as BF_TOTAL,
+} from "./compositions/barreleye-fish/BarreleyeFishVideo";
+import { Scene01 as BFScene01 } from "./compositions/barreleye-fish/Scene01";
+import { Scene02 as BFScene02 } from "./compositions/barreleye-fish/Scene02";
+import { Scene03 as BFScene03 } from "./compositions/barreleye-fish/Scene03";
+import { Scene04 as BFScene04 } from "./compositions/barreleye-fish/Scene04";
+import { Scene05 as BFScene05 } from "./compositions/barreleye-fish/Scene05";
+import { Scene06 as BFScene06 } from "./compositions/barreleye-fish/Scene06";
+import { Scene07 as BFScene07 } from "./compositions/barreleye-fish/Scene07";
+import { Scene08 as BFScene08 } from "./compositions/barreleye-fish/Scene08";
 
 // TikTok 9:16
 const W = 1080;
@@ -126,6 +139,27 @@ export const RemotionRoot: React.FC = () => {
         width={W}
         height={H}
       />
+
+      {/* ── Video Cá Mắt Vòm ────────────────────────────────── */}
+      <Composition
+        id="BarreleyeFish"
+        component={BarreleyeFishVideo}
+        durationInFrames={BF_TOTAL}
+        fps={FPS}
+        width={W}
+        height={H}
+      />
+
+      <Folder name="BarreleyeFish-Scenes">
+        <Composition id="BF-S01-Hook" component={BFScene01} durationInFrames={BF_DURATIONS.s01} fps={FPS} width={W} height={H} />
+        <Composition id="BF-S02-TransparentHead" component={BFScene02} durationInFrames={BF_DURATIONS.s02} fps={FPS} width={W} height={H} />
+        <Composition id="BF-S03-NotEyes" component={BFScene03} durationInFrames={BF_DURATIONS.s03} fps={FPS} width={W} height={H} />
+        <Composition id="BF-S04-Habitat" component={BFScene04} durationInFrames={BF_DURATIONS.s04} fps={FPS} width={W} height={H} />
+        <Composition id="BF-S05-Mystery" component={BFScene05} durationInFrames={BF_DURATIONS.s05} fps={FPS} width={W} height={H} />
+        <Composition id="BF-S06-Thief" component={BFScene06} durationInFrames={BF_DURATIONS.s06} fps={FPS} width={W} height={H} />
+        <Composition id="BF-S07-Rare" component={BFScene07} durationInFrames={BF_DURATIONS.s07} fps={FPS} width={W} height={H} />
+        <Composition id="BF-S08-Outro" component={BFScene08} durationInFrames={BF_DURATIONS.s08} fps={FPS} width={W} height={H} />
+      </Folder>
 
       <Folder name="DeathValley-Scenes">
         <Composition id="DV-S01-CesiumBG" component={Scene01Cesium} durationInFrames={DV_DURATIONS.s01} fps={FPS} width={W} height={H} />

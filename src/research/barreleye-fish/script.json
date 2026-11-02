@@ -1,0 +1,127 @@
+{
+  "topic": "barreleye-fish",
+  "title": "Hồ Sơ #01 — Loài cá có chiếc đầu trong suốt duy nhất trên Trái Đất",
+  "aspect": "9:16",
+  "fps": 30,
+  "voice": {
+    "provider": "zerotts",
+    "voice": "giahuy",
+    "gapMs": 300
+  },
+  "scenes": [
+    {
+      "id": "vo-01",
+      "name": "Hook — Xuống biển sâu",
+      "component": "Scene01",
+      "voiceText": "Sâu dưới đại dương Thái Bình Dương, ở nơi ánh sáng mặt trời gần như không thể chạm tới, tồn tại một sinh vật kỳ lạ đến mức khoa học phải mất bảy mươi năm mới hiểu được nó. Đây là Cá Mắt Vòm, loài cá duy nhất trên Trái Đất có chiếc đầu hoàn toàn trong suốt.",
+      "overlayText": [
+        "700 m",
+        "CÁ MẮT VÒM",
+        "Macropinna microstoma"
+      ],
+      "durationHint": 11.6,
+      "sfx": "hook",
+      "notes": "Camera lao xuống nước, đồng hồ đếm độ sâu 100→800m. Marine snow chảy suốt scene. Cá hiện lên trong bóng tối khi ROV rọi sáng."
+    },
+    {
+      "id": "vo-02",
+      "name": "Đầu trong suốt như buồng lái máy bay",
+      "component": "Scene02",
+      "voiceText": "Nhìn kỹ vào phần đầu của nó, bạn sẽ thấy một mái vòm trong veo bao trọn phía trên. Vòm này chứa đầy chất lỏng, hoạt động y hệt kính buồng lái của một chiếc máy bay chiến đấu. Và trên toàn bộ hành tinh này, không có loài cá nào khác sở hữu cấu tạo tương tự.",
+      "overlayText": [
+        "CHIẾC ĐẦU NHƯ BUỒNG LÁI",
+        "Mái vòm trong suốt • chứa đầy dịch",
+        "Không loài cá nào khác có cấu trúc này"
+      ],
+      "durationHint": 15.6,
+      "sfx": null,
+      "notes": "Cận cảnh đầu cá, split so sánh cockpit F-16. Mũi tên chỉ mái vòm, dịch, hộp sọ."
+    },
+    {
+      "id": "vo-03",
+      "name": "Hai chấm đen KHÔNG phải mắt",
+      "component": "Scene03",
+      "voiceText": "Đây là điều khiến hầu hết mọi người bị lừa. Hai chấm đen ở phía trước mặt, trông y hệt như đôi mắt, thực ra chỉ là hai lỗ mũi. Còn đôi mắt thật của con cá lại là hai quả cầu xanh lá phát sáng, nằm sâu bên trong hộp sọ trong suốt.",
+      "overlayText": [
+        "❌ ĐÂY KHÔNG PHẢI MẮT",
+        "Hai chấm đen = lỗ mũi (khứu giác)",
+        "✅ ĐÔI MẮT THẬT nằm BÊN TRONG đầu"
+      ],
+      "durationHint": 16.6,
+      "sfx": "reveal",
+      "notes": "Cận cảnh mặt cá. Nhấp nháy 'KHÔNG PHẢI MẮT' đỏ, zoom vào lỗ mũi, sau đó pan lên hai quả cầu xanh phát sáng bên trong vòm."
+    },
+    {
+      "id": "vo-04",
+      "name": "Nơi nó sống — vùng chạng vạng",
+      "component": "Scene04",
+      "voiceText": "Cá Mắt Vòm sống ở độ sâu từ sáu trăm đến tám trăm mét, trong vùng gọi là vùng chạng vạng của đại dương. Nơi đó, ánh mặt trời chỉ còn là những tia sáng mờ nhạt. Nó phân bố khắp Bắc Thái Bình Dương, và cả cơ thể chỉ dài khoảng mười lăm xăng-ti-mét.",
+      "overlayText": [
+        "600 – 800 m dưới mặt biển",
+        "VÙNG CHẠNG VẠNG",
+        "Bắc Thái Bình Dương",
+        "Kích thước: 15 cm"
+      ],
+      "durationHint": 14.6,
+      "sfx": null,
+      "notes": "Cột nước biển chia tầng, highlight vùng 600-800m. Bản đồ Bắc Thái Bình Dương với vùng phân bố. Thước tỉ lệ 15cm cạnh silhouette cá."
+    },
+    {
+      "id": "vo-05",
+      "name": "Bí ẩn 70 năm — mắt xoay được",
+      "component": "Scene05",
+      "voiceText": "Loài cá này được mô tả từ năm một chín ba chín, nhưng suốt bảy mươi năm sau đó, khoa học vẫn tin rằng mắt của nó cố định hướng lên trên. Mãi đến năm hai nghìn lẻ chín, hai nhà nghiên cứu tại Viện Em-ba-ri, bang Ca-li-pho-ni-a, mới chứng minh được sự thật gây sốc. Đôi mắt đó có thể xoay bên trong mái vòm trong suốt, từ nhìn lên trần cho tới nhìn thẳng về phía trước.",
+      "overlayText": [
+        "1939 → 2009",
+        "70 NĂM BÍ ẨN",
+        "Mắt XOAY được bên trong đầu"
+      ],
+      "durationHint": 20.6,
+      "sfx": null,
+      "notes": "Timeline 1939 → 2004 → 2009. Animation mắt xanh xoay 90° từ hướng lên → hướng trước. Credit MBARI Robison & Reisenbichler."
+    },
+    {
+      "id": "vo-06",
+      "name": "Kẻ trộm mồi của biển sâu",
+      "component": "Scene06",
+      "voiceText": "Nhưng thứ ấn tượng nhất chính là cách nó kiếm ăn. Cá Mắt Vòm lơ lửng ngay bên dưới những con sứa dây khổng lồ, rồi giật lấy con mồi bị mắc kẹt trên xúc tu chích độc của chúng. Chiếc mái vòm trong suốt lúc này biến thành tấm khiên bảo vệ đôi mắt của nó khỏi những cái chích chết người.",
+      "overlayText": [
+        "KẺ TRỘM CỦA BIỂN SÂU",
+        "Cướp mồi từ xúc tu sứa dây",
+        "Mái vòm = tấm khiên chống chất độc"
+      ],
+      "durationHint": 19.6,
+      "sfx": null,
+      "notes": "Cá treo dưới siphonophore dài, xúc tu buông xuống có chấm sáng con mồi. Mắt xoay ra trước, miệng đớp mồi. Xúc tu chích trượt trên vòm trong suốt."
+    },
+    {
+      "id": "vo-07",
+      "name": "Chỉ 9 lần trong 5.600 chuyến lặn",
+      "component": "Scene07",
+      "voiceText": "Loài cá này hiếm đến mức nào? Trong hơn năm nghìn sáu trăm chuyến lặn và hai bảy nghìn sáu trăm giờ ghi hình, các robot lặn của Em-ba-ri chỉ bắt gặp Cá Mắt Vòm đúng chín lần. Cái nhìn hiếm hoi ấy quý giá đến mức mỗi lần đều trở thành sự kiện lan truyền toàn cầu.",
+      "overlayText": [
+        "5.600+ chuyến lặn",
+        "27.600+ giờ quay",
+        "CHỈ 9 LẦN GẶP",
+        "Video viral toàn cầu — 12/2021"
+      ],
+      "durationHint": 15.6,
+      "sfx": null,
+      "notes": "Số liệu khổng lồ count-up, chữ '9' cực lớn glow xanh. Cảnh ROV Ventana viral 2021."
+    },
+    {
+      "id": "vo-08",
+      "name": "Kết & CTA",
+      "component": "Scene08",
+      "voiceText": "Đại dương đang giấu chúng ta hàng triệu bí mật khác. Nếu bạn thấy câu chuyện này thú vị, hãy theo dõi kênh để cùng mở những hồ sơ tiếp theo về những sinh vật kỳ lạ nhất hành tinh.",
+      "overlayText": [
+        "HỒ SƠ #01 — CÁ MẮT VÒM",
+        "Còn 8 triệu loài đang chờ được kể...",
+        "Theo dõi để mở hồ sơ tiếp theo 🔍"
+      ],
+      "durationHint": 10.6,
+      "sfx": "outro",
+      "notes": "Cá bơi biến mất vào bóng tối. Logo kênh Hồ Sơ Tự Nhiên + CTA follow."
+    }
+  ]
+}
